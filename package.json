@@ -1,0 +1,19 @@
+{
+  "name": "nov24rncustomtemplate",
+  "version": "1.0.3",
+  "description": "React Native Custom Template",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/shaikhkhamroddin/rn-custom-template"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khamar.dev20@gmail.com",
+  "license": "ISC"
+}
