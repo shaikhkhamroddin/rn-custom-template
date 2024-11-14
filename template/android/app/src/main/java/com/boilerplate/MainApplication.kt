@@ -1,4 +1,4 @@
-package com.sampleapp21aug24
+package com.boilerplate
 
 import android.app.Application
 import com.facebook.react.PackageList

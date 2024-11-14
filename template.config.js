@@ -1,4 +1,4 @@
 module.exports = {
-    placeholderName: 'RNtemplateNov24',
+    placeholderName: 'Boilerplate',
     templateDir: './template',
   }

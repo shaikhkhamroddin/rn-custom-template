@@ -85,9 +85,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.sampleapp21aug24"
+    namespace "com.boilerplate"
     defaultConfig {
-        applicationId "com.sampleapp21aug24"
+        applicationId "com.boilerplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -98,21 +98,21 @@ android {
  	productFlavors {
         development {
             minSdkVersion rootProject.ext.minSdkVersion
-            applicationId 'com.sampleapp21aug24.development'
+            applicationId 'com.boilerplate.development'
             targetSdkVersion rootProject.ext.targetSdkVersion
-            resValue "string", "build_config_package", "com.sampleapp21aug24"
+            resValue "string", "build_config_package", "com.boilerplate"
         }
         staging {
             minSdkVersion rootProject.ext.minSdkVersion
-            applicationId 'com.sampleapp21aug24.staging'
+            applicationId 'com.boilerplate.staging'
             targetSdkVersion rootProject.ext.targetSdkVersion
-            resValue "string", "build_config_package", "com.sampleapp21aug24"
+            resValue "string", "build_config_package", "com.boilerplate"
         }
         production{
             minSdkVersion rootProject.ext.minSdkVersion
-            applicationId 'com.sampleapp21aug24'
+            applicationId 'com.boilerplate'
             targetSdkVersion rootProject.ext.targetSdkVersion
-            resValue "string", "build_config_package", "com.sampleapp21aug24"
+            resValue "string", "build_config_package", "com.boilerplate"
         }
     }
 

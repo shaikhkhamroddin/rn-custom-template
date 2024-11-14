@@ -1,6 +1,6 @@
 {
-  "name": "nov24rncustomtemplate",
-  "version": "1.0.3",
+  "name": "rn-custom-template",
+  "version": "1.0.6",
   "description": "React Native Custom Template",
   "files": [
     "template",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url":"https://github.com/shaikhkhamroddin/rn-custom-template"
+    "url": "https://github.com/shaikhkhamroddin/rn-custom-template"
   },
   "main": "index.js",
   "scripts": {
