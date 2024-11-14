@@ -1,6 +1,6 @@
 {
   "name": "rn-custom-template",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "React Native Custom Template",
   "files": [
     "template",
